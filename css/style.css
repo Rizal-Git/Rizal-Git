@@ -204,7 +204,7 @@ body {
   max-width: 30rem;
   margin: auto;
   font-weight: 100;
-  line-height: 1.6;
+  line-height: 2.5;
 }
 
 .menu .row {
@@ -219,12 +219,13 @@ body {
 }
 
 .menu .row .menu-card img {
-  border-radius: 50%;
-  width: 80%;
+  border-radius: 25%;
+  width: 90%;
 }
 
 .menu .row .menu-card .menu-card-title {
-  margin: 1rem auto 0.5rem;
+  margin: 2rem auto 1rem;
+  font-size: medium;
 }
 
 /* Contact Section */
@@ -258,7 +259,7 @@ body {
 .contact .row form .input-group input {
   width: 100%;
   padding: 2rem;
-  font-size: 1.7rem;
+  font-size: 2rem;
   background-color: var(--bg);
   color: #fff;
 }
